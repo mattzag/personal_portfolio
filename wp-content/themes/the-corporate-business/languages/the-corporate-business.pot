@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-01-31 14:11+0530\n"
+"PO-Revision-Date: 2024-01-31 14:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:16
+msgid "This template is created by Appnotick | 01/2024"
+msgstr ""
+
+#: footer.php:20
+msgid "Scroll Up"
+msgstr ""
+
+#: functions.php:52
+msgid "Header"
+msgstr ""
+
+#: functions.php:133
+msgid "Read More"
+msgstr ""
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:168
+msgid "the_corporate_business Section"
+msgstr ""
+
+#: functions.php:174
+msgid "Home Section"
+msgstr ""
+
+#: functions.php:186 functions.php:218
+msgid "Display this section"
+msgstr ""
+
+#: functions.php:198
+msgid "Title"
+msgstr ""
+
+#: functions.php:206
+msgid "Services Section"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: search.php:22 search.php:40
+#, php-format
+msgid "Results For: %s"
+msgstr ""
+
+#: single.php:86
+msgid "Previous:"
+msgstr ""
+
+#: single.php:87
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:76
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:45
+msgid "0 Comment"
+msgstr ""
+
+#: template-parts/content.php:45
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content.php:45
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/content.php:63
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:84
+msgid "READ MORE"
+msgstr ""
